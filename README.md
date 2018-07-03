@@ -1,3 +1,29 @@
+# React template for common patterns ( my self reference guide);
+ 
+
+## Table of contents
+getting things started in terminal 
+Yarn 
+Yarn init
+Yarn create  react-app the name 
+Cd  react the name 
+Yarn start 
+
+Public 
+  -index.html
+SRC
+  -Person 
+    -person.js
+  -App.css
+  -App.js 
+
+  -package JSon 
+  dont forget to put "homepage":" with github url"
+   
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
